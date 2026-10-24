@@ -1,0 +1,19 @@
+cff-version: 1.2.0
+message: "If you use this software or data, please cite it using the metadata below."
+title: "DiMT-Net: Digital Platforms, Disinformation and Political Polarization - code and data"
+type: software
+authors:
+  - family-names: Sufian
+    given-names: Md Abu
+    affiliation: University of East London
+repository-code: "https://github.com/datascintist-abusufian/DiMT-Net"
+license: MIT
+version: 1.0.0
+keywords:
+  - digital platforms
+  - political polarization
+  - disinformation
+  - multi-task learning
+  - GRU
+  - panel data
+  - computational social science

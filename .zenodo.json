@@ -1,0 +1,25 @@
+{
+  "title": "DiMT-Net: Digital Platforms, Disinformation and Political Polarization - code and data",
+  "upload_type": "software",
+  "description": "Code and derived data for a cross-national analysis of digital-platform intensity, disinformation and political polarization (V-Dem v16, Digital Society Project and World Bank indicators, 2000-2024, up to 179 countries). Includes the panel econometric pipeline (two-way fixed effects with country-specific trends, lagged, first-difference, placebo and leave-one-region-out robustness) and DiMT-Net (Disinformation Multi-Task Temporal Network), a two-layer GRU encoder with multi-task heads for three polarization outcomes and three auxiliary disinformation outcomes, benchmarked against GRU, Random Forest, MLP, histogram gradient boosting and Ridge on an untouched 2022-2024 temporal test set.",
+  "creators": [
+    {
+      "name": "Sufian, Md Abu",
+      "affiliation": "University of East London"
+    }
+  ],
+  "license": "MIT",
+  "access_right": "open",
+  "keywords": [
+    "digital platforms",
+    "political polarization",
+    "disinformation",
+    "social media",
+    "panel data",
+    "multi-task learning",
+    "GRU",
+    "cross-national analysis",
+    "computational social science",
+    "V-Dem"
+  ]
+}
