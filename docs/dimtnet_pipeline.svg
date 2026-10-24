@@ -1,0 +1,135 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 1060" width="1000" height="1060" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif">
+<defs><marker id="ah" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#94a3b8"/></marker>
+<filter id="sh" x="-5%" y="-5%" width="110%" height="120%"><feDropShadow dx="0" dy="1.5" stdDeviation="1.5" flood-color="#0f172a" flood-opacity="0.10"/></filter></defs>
+<rect width="1000" height="1060" rx="18" fill="#ffffff"/>
+<text x="40" y="52" font-size="24" font-weight="700" fill="#0f172a">DiMT-Net — study pipeline</text>
+<text x="40" y="76" font-size="14" fill="#475569">Digital platforms, disinformation and political polarization · country-year panel, 2000–2024</text>
+<circle cx="52" cy="113" r="12" fill="#1d4ed8"/><text x="52" y="118" font-size="13" font-weight="700" fill="#fff" text-anchor="middle">1</text>
+<text x="72" y="118" font-size="13" font-weight="700" letter-spacing="1" fill="#1d4ed8">DATA SOURCES</text>
+<g filter="url(#sh)"><rect x="40" y="134" width="290" height="92" rx="12" fill="#eff6ff" stroke="#1d4ed8" stroke-width="1.5"/></g>
+<rect x="54" y="148" width="44" height="44" rx="10" fill="#1d4ed8"/>
+<g transform="translate(63.0,157.0) scale(1.0833333333333333)" fill="none" stroke="#ffffff" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><line x1="3" x2="21" y1="22" y2="22" />
+  <line x1="6" x2="6" y1="18" y2="11" />
+  <line x1="10" x2="10" y1="18" y2="11" />
+  <line x1="14" x2="14" y1="18" y2="11" />
+  <line x1="18" x2="18" y1="18" y2="11" />
+  <polygon points="12 2 20 7 4 7" /></g>
+<text x="112" y="167" font-size="15.5" font-weight="700" fill="#0f172a">V-Dem Dataset v16</text>
+<text x="112" y="188" font-size="13" fill="#475569">Polarization, hate speech,</text>
+<text x="112" y="207" font-size="13" fill="#475569">democracy &amp; controls</text>
+<g filter="url(#sh)"><rect x="355" y="134" width="290" height="92" rx="12" fill="#eff6ff" stroke="#1d4ed8" stroke-width="1.5"/></g>
+<rect x="369" y="148" width="44" height="44" rx="10" fill="#1d4ed8"/>
+<g transform="translate(378.0,157.0) scale(1.0833333333333333)" fill="none" stroke="#ffffff" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><circle cx="12" cy="12" r="10" />
+  <path d="M12 2a14.5 14.5 0 0 0 0 20 14.5 14.5 0 0 0 0-20" />
+  <path d="M2 12h20" /></g>
+<text x="427" y="167" font-size="15.5" font-weight="700" fill="#0f172a">Digital Society Project</text>
+<text x="427" y="188" font-size="13" fill="#475569">Online media use, social-media</text>
+<text x="427" y="207" font-size="13" fill="#475569">campaigning, disinformation</text>
+<g filter="url(#sh)"><rect x="670" y="134" width="290" height="92" rx="12" fill="#eff6ff" stroke="#1d4ed8" stroke-width="1.5"/></g>
+<rect x="684" y="148" width="44" height="44" rx="10" fill="#1d4ed8"/>
+<g transform="translate(693.0,157.0) scale(1.0833333333333333)" fill="none" stroke="#ffffff" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><ellipse cx="12" cy="5" rx="9" ry="3" />
+  <path d="M3 5V19A9 3 0 0 0 21 19V5" />
+  <path d="M3 12A9 3 0 0 0 21 12" /></g>
+<text x="742" y="167" font-size="15.5" font-weight="700" fill="#0f172a">World Bank WDI</text>
+<text x="742" y="188" font-size="13" fill="#475569">Internet penetration,</text>
+<text x="742" y="207" font-size="13" fill="#475569">macro-economic controls</text>
+<path d="M185.0,226 L185.0,248 L500.0,248 L500.0,288" fill="none" stroke="#94a3b8" stroke-width="2" marker-end="url(#ah)"/>
+<path d="M500.0,226 L500.0,288" fill="none" stroke="#94a3b8" stroke-width="2" marker-end="url(#ah)"/>
+<path d="M815.0,226 L815.0,248 L500.0,248 L500.0,288" fill="none" stroke="#94a3b8" stroke-width="2" marker-end="url(#ah)"/>
+<g filter="url(#sh)"><rect x="220.0" y="290" width="560" height="92" rx="12" fill="#eff6ff" stroke="#1d4ed8" stroke-width="1.5"/></g>
+<rect x="234.0" y="304" width="44" height="44" rx="10" fill="#1d4ed8"/>
+<g transform="translate(243.0,313.0) scale(1.0833333333333333)" fill="none" stroke="#ffffff" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M9 3H5a2 2 0 0 0-2 2v4m6-6h10a2 2 0 0 1 2 2v4M9 3v18m0 0h10a2 2 0 0 0 2-2V9M9 21H5a2 2 0 0 1-2-2V9m0 0h18" /></g>
+<text x="292.0" y="323" font-size="15.5" font-weight="700" fill="#0f172a">Harmonised country-year panel</text>
+<text x="292.0" y="344" font-size="13" fill="#475569">2000–2024 · up to 179 countries</text>
+<text x="292.0" y="363" font-size="13" fill="#475569">Platform-intensity index (media use + campaigning + mobilisation)</text>
+<path d="M500.0,382 L500.0,408 L260.0,408 L260.0,440" fill="none" stroke="#94a3b8" stroke-width="2" marker-end="url(#ah)"/>
+<path d="M500.0,408 L740.0,408 L740.0,440" fill="none" stroke="#94a3b8" stroke-width="2" marker-end="url(#ah)"/>
+<circle cx="52" cy="455" r="12" fill="#0f766e"/><text x="52" y="460" font-size="13" font-weight="700" fill="#fff" text-anchor="middle">2</text>
+<text x="72" y="460" font-size="13" font-weight="700" letter-spacing="1" fill="#0f766e">EXPLANATION · PANEL ECONOMETRICS</text>
+<circle cx="532" cy="455" r="12" fill="#6d28d9"/><text x="532" y="460" font-size="13" font-weight="700" fill="#fff" text-anchor="middle">3</text>
+<text x="552" y="460" font-size="13" font-weight="700" letter-spacing="1" fill="#6d28d9">PREDICTION · DiMT-NET</text>
+<g filter="url(#sh)"><rect x="40" y="476" width="440" height="92" rx="12" fill="#f0fdfa" stroke="#0f766e" stroke-width="1.5"/></g>
+<rect x="54" y="490" width="44" height="44" rx="10" fill="#0f766e"/>
+<g transform="translate(63.0,499.0) scale(1.0833333333333333)" fill="none" stroke="#ffffff" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M18 7V5a1 1 0 0 0-1-1H6.5a.5.5 0 0 0-.4.8l4.5 6a2 2 0 0 1 0 2.4l-4.5 6a.5.5 0 0 0 .4.8H17a1 1 0 0 0 1-1v-2" /></g>
+<text x="112" y="509" font-size="15.5" font-weight="700" fill="#0f172a">Two-way fixed-effects model</text>
+<text x="112" y="530" font-size="13" fill="#475569">Country + year FE, country trends,</text>
+<text x="112" y="549" font-size="13" fill="#475569">two-way clustered SEs (country, year)</text>
+<g filter="url(#sh)"><rect x="40" y="602" width="440" height="92" rx="12" fill="#f0fdfa" stroke="#0f766e" stroke-width="1.5"/></g>
+<rect x="54" y="616" width="44" height="44" rx="10" fill="#0f766e"/>
+<g transform="translate(63.0,625.0) scale(1.0833333333333333)" fill="none" stroke="#ffffff" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M20 13c0 5-3.5 7.5-7.66 8.95a1 1 0 0 1-.67-.01C7.5 20.5 4 18 4 13V6a1 1 0 0 1 1-1c2 0 4.5-1.2 6.24-2.72a1.17 1.17 0 0 1 1.52 0C14.51 3.81 17 5 19 5a1 1 0 0 1 1 1z" />
+  <path d="m9 12 2 2 4-4" /></g>
+<text x="112" y="635" font-size="15.5" font-weight="700" fill="#0f172a">Robustness designs</text>
+<text x="112" y="656" font-size="13" fill="#475569">Lagged · first-difference · placebo</text>
+<text x="112" y="675" font-size="13" fill="#475569">Subperiods · leave-one-region-out</text>
+<path d="M260.0,568 L260.0,600" fill="none" stroke="#94a3b8" stroke-width="2" marker-end="url(#ah)"/>
+<g filter="url(#sh)"><rect x="40" y="728" width="440" height="92" rx="12" fill="#f0fdfa" stroke="#0f766e" stroke-width="1.5"/></g>
+<rect x="54" y="742" width="44" height="44" rx="10" fill="#0f766e"/>
+<g transform="translate(63.0,751.0) scale(1.0833333333333333)" fill="none" stroke="#ffffff" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><circle cx="18" cy="18" r="3" />
+  <circle cx="6" cy="6" r="3" />
+  <path d="M6 21V9a9 9 0 0 0 9 9" /></g>
+<text x="112" y="761" font-size="15.5" font-weight="700" fill="#0f172a">Disinformation pathway models</text>
+<text x="112" y="782" font-size="13" fill="#475569">Government, party &amp; foreign-gov.</text>
+<text x="112" y="801" font-size="13" fill="#475569">disinformation (pathway-consistent)</text>
+<path d="M260.0,694 L260.0,726" fill="none" stroke="#94a3b8" stroke-width="2" marker-end="url(#ah)"/>
+<g filter="url(#sh)"><rect x="520" y="476" width="440" height="92" rx="12" fill="#f5f3ff" stroke="#6d28d9" stroke-width="1.5"/></g>
+<rect x="534" y="490" width="44" height="44" rx="10" fill="#6d28d9"/>
+<g transform="translate(543.0,499.0) scale(1.0833333333333333)" fill="none" stroke="#ffffff" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><rect width="18" height="18" x="3" y="4" rx="2" />
+  <path d="M16 2v4" />
+  <path d="M3 10h18" />
+  <path d="M8 2v4" />
+  <path d="M17 14h-6" />
+  <path d="M13 18H7" />
+  <path d="M7 14h.01" />
+  <path d="M17 18h.01" /></g>
+<text x="592" y="509" font-size="15.5" font-weight="700" fill="#0f172a">5-year country sequences</text>
+<text x="592" y="530" font-size="13" fill="#475569">Predict next-year polarization</text>
+<text x="592" y="549" font-size="13" fill="#475569">Train 2005–2021 · test 2022–2024</text>
+<g filter="url(#sh)"><rect x="520" y="602" width="440" height="92" rx="12" fill="#f5f3ff" stroke="#6d28d9" stroke-width="1.5"/></g>
+<rect x="534" y="616" width="44" height="44" rx="10" fill="#6d28d9"/>
+<g transform="translate(543.0,625.0) scale(1.0833333333333333)" fill="none" stroke="#ffffff" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="m12.83 2.18a2 2 0 0 0-1.66 0L2.6 6.08a1 1 0 0 0 0 1.83l8.58 3.91a2 2 0 0 0 1.66 0l8.58-3.9a1 1 0 0 0 0-1.83Z" />
+  <path d="m22 17.65-9.17 4.16a2 2 0 0 1-1.66 0L2 17.65" />
+  <path d="m22 12.65-9.17 4.16a2 2 0 0 1-1.66 0L2 12.65" /></g>
+<text x="592" y="635" font-size="15.5" font-weight="700" fill="#0f172a">2-layer GRU encoder</text>
+<text x="592" y="656" font-size="13" fill="#475569">Shared temporal representation</text>
+<text x="592" y="675" font-size="13" fill="#475569">across all six targets</text>
+<path d="M740.0,568 L740.0,600" fill="none" stroke="#94a3b8" stroke-width="2" marker-end="url(#ah)"/>
+<path d="M740.0,694 L740.0,708 L626.0,708 L626.0,726" fill="none" stroke="#94a3b8" stroke-width="2" marker-end="url(#ah)"/>
+<path d="M740.0,708 L854.0,708 L854.0,726" fill="none" stroke="#94a3b8" stroke-width="2" marker-end="url(#ah)"/>
+<g filter="url(#sh)"><rect x="520" y="728" width="212.0" height="92" rx="12" fill="#f5f3ff" stroke="#6d28d9" stroke-width="1.5"/></g>
+<rect x="532" y="740" width="30" height="30" rx="8" fill="#6d28d9"/>
+<g transform="translate(538,746) scale(0.75)" fill="none" stroke="#fff" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><circle cx="12" cy="12" r="10" />
+  <circle cx="12" cy="12" r="6" />
+  <circle cx="12" cy="12" r="2" /></g>
+<text x="572" y="760" font-size="14" font-weight="700" fill="#0f172a">Main heads ×3</text>
+<text x="534" y="788" font-size="12" fill="#475569">Political &amp; societal polarization,</text>
+<text x="534" y="805" font-size="12" fill="#475569">party hate speech</text>
+<g filter="url(#sh)"><rect x="748.0" y="728" width="212.0" height="92" rx="12" fill="#f5f3ff" stroke="#6d28d9" stroke-width="1.5"/></g>
+<rect x="760.0" y="740" width="30" height="30" rx="8" fill="#6d28d9"/>
+<g transform="translate(766.0,746) scale(0.75)" fill="none" stroke="#fff" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="m3 11 18-5v12L3 14v-3z" />
+  <path d="M11.6 16.8a3 3 0 1 1-5.8-1.6" /></g>
+<text x="800.0" y="760" font-size="14" font-weight="700" fill="#0f172a">Auxiliary heads ×3</text>
+<text x="762.0" y="788" font-size="12" fill="#475569">Gov., party &amp; foreign-gov.</text>
+<text x="762.0" y="805" font-size="12" fill="#475569">disinformation</text>
+<path d="M260.0,820 L260.0,878" fill="none" stroke="#94a3b8" stroke-width="2" marker-end="url(#ah)"/>
+<path d="M626.0,820 L626.0,846 L740.0,846 L740.0,878" fill="none" stroke="#94a3b8" stroke-width="2" marker-end="url(#ah)"/>
+<line x1="854.0" y1="820" x2="854.0" y2="846" stroke="#94a3b8" stroke-width="2"/><line x1="740.0" y1="846" x2="854.0" y2="846" stroke="#94a3b8" stroke-width="2"/>
+<g filter="url(#sh)"><rect x="40" y="880" width="440" height="118" rx="12" fill="#fffbeb" stroke="#b45309" stroke-width="1.5"/></g>
+<rect x="54" y="894" width="44" height="44" rx="10" fill="#b45309"/>
+<g transform="translate(63.0,903.0) scale(1.0833333333333333)" fill="none" stroke="#ffffff" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M3 3v16a2 2 0 0 0 2 2h16" />
+  <path d="M18 17V9" />
+  <path d="M13 17V5" />
+  <path d="M8 17v-3" /></g>
+<text x="112" y="913" font-size="15.5" font-weight="700" fill="#0f172a">Associations (RQ1–RQ2)</text>
+<text x="112" y="934" font-size="13" fill="#475569">Platform intensity → polarization:</text>
+<text x="112" y="953" font-size="13" fill="#475569">political β 0.297 · societal β 0.409</text>
+<text x="112" y="972" font-size="13" fill="#475569">party hate speech β 0.282</text>
+<g filter="url(#sh)"><rect x="520" y="880" width="440" height="118" rx="12" fill="#fffbeb" stroke="#b45309" stroke-width="1.5"/></g>
+<rect x="534" y="894" width="44" height="44" rx="10" fill="#b45309"/>
+<g transform="translate(543.0,903.0) scale(1.0833333333333333)" fill="none" stroke="#ffffff" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M3 3v16a2 2 0 0 0 2 2h16" />
+  <path d="m19 9-5 5-4-4-3 3" /></g>
+<text x="592" y="913" font-size="15.5" font-weight="700" fill="#0f172a">Untouched test set (RQ3)</text>
+<text x="592" y="934" font-size="13" fill="#475569">536 sequences · 179 countries</text>
+<text x="592" y="953" font-size="13" fill="#475569">RMSE 0.611 · MAE 0.445 · R² 0.799</text>
+<text x="592" y="972" font-size="13" fill="#475569">−7.5% RMSE vs GRU (bootstrap CI &gt; 0)</text>
+<text x="500.0" y="1038" font-size="11.5" fill="#475569" text-anchor="middle">Benchmarks: GRU · Random Forest · MLP · Histogram gradient boosting · Ridge   |   Icons: Lucide (ISC)</text>
+</svg>
