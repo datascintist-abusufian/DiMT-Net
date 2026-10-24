@@ -6,6 +6,12 @@
 
 **DOI:** [10.5281/zenodo.23608199](https://doi.org/10.5281/zenodo.23608199) (all versions) · v1.0.0: [10.5281/zenodo.23608200](https://doi.org/10.5281/zenodo.23608200)
 
+## Pipeline
+
+<p align="center">
+  <img src="docs/dimtnet_pipeline.svg" alt="DiMT-Net study pipeline: V-Dem, Digital Society Project and World Bank data feed a harmonised country-year panel, which branches into panel econometrics (fixed effects, robustness, disinformation pathways) and the DiMT-Net GRU multi-task model (5-year sequences, shared encoder, main and auxiliary heads), ending in association estimates and test-set results." width="100%">
+</p>
+
 ## Overview
 
 This repository combines two analyses on a harmonised country-year panel built from:
