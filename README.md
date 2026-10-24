@@ -6,10 +6,10 @@
 
 **DOI:** [10.5281/zenodo.23608199](https://doi.org/10.5281/zenodo.23608199) (all versions) · v1.0.0: [10.5281/zenodo.23608200](https://doi.org/10.5281/zenodo.23608200)
 
-## Pipeline
+## Model block diagram
 
 <p align="center">
-  <img src="docs/dimtnet_pipeline.svg" alt="DiMT-Net study pipeline: V-Dem, Digital Society Project and World Bank data feed a harmonised country-year panel, which branches into panel econometrics (fixed effects, robustness, disinformation pathways) and the DiMT-Net GRU multi-task model (5-year sequences, shared encoder, main and auxiliary heads), ending in association estimates and test-set results." width="100%">
+  <img src="docs/dimtnet_pipeline.svg" alt="DiMT-Net block diagram: data panel (4,636 country-years, 179 countries) to a 5x30 input tensor, a 2-layer GRU encoder (hidden 128, dropout 0.20), a shared LayerNorm-Linear-ReLU layer, three polarization heads and three auxiliary disinformation heads (loss weight 0.25), and test results (RMSE 0.611, MAE 0.445, R2 0.799)." width="100%">
 </p>
 
 ## Overview
