@@ -2,7 +2,9 @@
 
 **DiMT-Net (Disinformation Multi-Task Temporal Network)**: code and derived data for a cross-national analysis of digital platforms, disinformation and political polarization.
 
-<!-- DOI badge is added after the first Zenodo release -->
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.23608199.svg)](https://doi.org/10.5281/zenodo.23608199)
+
+**DOI:** [10.5281/zenodo.23608199](https://doi.org/10.5281/zenodo.23608199) (all versions) · v1.0.0: [10.5281/zenodo.23608200](https://doi.org/10.5281/zenodo.23608200)
 
 ## Overview
 
@@ -55,7 +57,9 @@ Raw source data are publicly available from their providers and should be downlo
 
 ## Citation
 
-See `CITATION.cff`, or use the Zenodo DOI once released.
+Sufian, M. A. (2026). *DiMT-Net: Digital Platforms, Disinformation and Political Polarization - code and data* (v1.0.0). Zenodo. https://doi.org/10.5281/zenodo.23608199
+
+See also `CITATION.cff` (GitHub's "Cite this repository" button).
 
 ## Licence
 

@@ -9,6 +9,8 @@ authors:
 repository-code: "https://github.com/datascintist-abusufian/DiMT-Net"
 license: MIT
 version: 1.0.0
+doi: 10.5281/zenodo.23608199
+date-released: 2026-10-24
 keywords:
   - digital platforms
   - political polarization
